@@ -1,0 +1,31 @@
+<html>
+<head>
+<title> Mi pagina web </title>
+
+<left> <center><h4><H1><font color="mediumseagreen">"IMMANUEL KANT"</font></H1></h4></center></left>
+
+<body bgcolor=" yellow">
+
+<IMG>
+
+<center><img src= "Karl.jpg" "heigth=200px width=200px"></center>
+
+<p style="tex-aling:justify;">Fue un filosofo aleman de la ilustracion, fue el primero y el mas importante representante del critesismo y precursor del idealismo aleman es considerado como uno de los pensadores mas influyentes de europa moderna y  filosofia universal.
+</p>
+
+<left> <center><h4><H2><font color="mediumseagreen">TEORIA ETICA KANTIANA</font></H2></h4></center></left>
+
+<left>¿Qué es?</left>
+
+<p style="tex-aling:justify;">Kant partia de vista de que la diferencia entre de bien y el mal era realmente algo real para kant todos los seres humanos disponemos de la capacidad de razonar en cada momento si algo es bueno o malo moralmente por lo tanto la capacidad de distinguir entre el bien y el mal es innata como el resto de cualidades de la razon.</p>
+
+<left> <center><h4><H2><font color="mediumseagreen">Frase</font></H2></h4></center></left>
+
+<p style="tex-aling:justify;"> La voluntad de dios no es simplemente que seamos felices,si no que nos hagamos felices a nosotros mismo.
+Para poder se felices depende solo de nosotros mismo, alcanzar felicidad dependera solo de nuestro actos diarios y nuestra emociones,  no hay que buscar  siempre un culpable por nuestras malas desiciones
+</p>
+
+
+</body>
+</head>
+</html>
